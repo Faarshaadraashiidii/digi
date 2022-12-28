@@ -1,0 +1,104 @@
+div.offer {
+  width: 100%;
+  padding: 30px;
+  background-color: whitesmoke;
+
+}
+div.offer > div.mainoffer {
+  width: 80%;
+  padding: 5px;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+div.offer > div.mainoffer > div.top {
+  width: 100%;
+  height: 150px;
+text-align: center;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+-ms-border-radius: 10px;
+-o-border-radius: 10px;
+
+}
+div.offer > div.mainoffer > div.top >div {
+  width: 14.28%;
+  height: inherit;
+  display: inline-block;
+  margin: -2px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+
+}
+div.offer > div.mainoffer > div.top >div>div{
+    width: 70%;
+    height: 70%;
+    vertical-align: top;
+    background-color: lightgray;
+    margin: 25px auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+div.offer > div.mainoffer > div.top >div>div>img{
+    width: 90%;
+    height: 90%;
+    margin: 5px;
+    border-radius: 40%;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+
+
+
+
+
+
+div.offer > div.mainoffer > div.buttom{
+  width: 100%;
+  height: 150px;
+text-align: center;
+}
+div.offer > div.mainoffer > div.buttom >div {
+  width: 14.28%;
+  height: inherit;
+  display: inline-block;
+  margin: -2px;
+  border: 1px solid lightgray;
+
+}
+div.offer > div.mainoffer > div.buttom >div>div{
+    width: 70%;
+    height: 70%;
+    vertical-align: top;
+    background-color: lightgray;
+    margin: 25px auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+div.offer > div.mainoffer > div.buttom >div>div>img{
+    width: 90%;
+    height: 90%;
+    margin: 5px;
+    border-radius: 40%;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}

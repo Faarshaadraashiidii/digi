@@ -1,0 +1,32 @@
+@font-face{
+    font-family: BYekan-bold;
+    src: url(../../../fonts/bold/iranyekanwebbold.cfb6e26c.eot);
+    src: url(../../../fonts/bold/iranyekanwebbold.cfb6e26c.otf);
+    src: url(../../../fonts/bold/iranyekanwebbold.cfb6e26c.ttf);
+    src: url(../../../fonts/bold/iranyekanwebbold.cfb6e26c.woff);
+    src: url(../../../fonts/bold/iranyekanwebbold.cfb6e26c.woff2);
+}
+@font-face{
+    font-family: BYekan-extera-bold;
+    src: url(../../../fonts/extrabold/iranyekanwebextrabold.9346e9a2.eot);
+    src: url(../../../fonts/extrabold/iranyekanwebextrabold.9346e9a2.otf);
+    src: url(../../../fonts/extrabold/iranyekanwebextrabold.9346e9a2.ttf);
+    src: url(../../../fonts/extrabold/iranyekanwebextrabold.9346e9a2.woff);
+    src: url(../../../fonts/extrabold/iranyekanwebextrabold.9346e9a2.woff2);
+}
+@font-face{
+    font-family: BYekan-regular;
+    src: url(../../../fonts/regular/iranyekanwebregular.e31c09af.eot);
+    src: url(../../../fonts/regular/iranyekanwebregular.e31c09af.otf);
+    src: url(../../../fonts/regular/iranyekanwebregular.e31c09af.ttf);
+    src: url(../../../fonts/regular/iranyekanwebregular.e31c09af.woff);
+    src: url(../../../fonts/regular/iranyekanwebregular.e31c09af.woff2);
+}
+@font-face{
+    font-family: BYekan-medium;
+    src: url(../../../fonts/medium/iranyekanwebmedium.2d4f96e5.eot);
+    src: url(../../../fonts/medium/iranyekanwebmedium.2d4f96e5.otf);
+    src: url(../../../fonts/medium/iranyekanwebmedium.2d4f96e5.ttf);
+    src: url(../../../fonts/medium/iranyekanwebmedium.2d4f96e5.woff);
+    src: url(../../../fonts/medium/iranyekanwebmedium.2d4f96e5.woff2);
+}
